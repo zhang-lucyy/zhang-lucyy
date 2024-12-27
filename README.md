@@ -5,6 +5,6 @@
 <h2>Tech</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java, py, js, html, css, php, c, cpp, swift, vscode, git, github, gitlab, docker, postgres, figma, powershell, windows">
+    <img src="https://skillicons.dev/icons?i=java, py, js, html, css, php, c, cpp, swift, vscode, git, github, gitlab, docker, postgres, figma, powershell, windows"/>
   </a>
 </p>
