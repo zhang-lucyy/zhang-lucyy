@@ -4,7 +4,7 @@ I'm currently a 4th year Software Engineering student with a double minor in Web
 
 💫I love collecting little trinkets and blind box figurines! Don't ask me how much I've spent...
 
-📝 Currently learning: React
+📝 Currently learning: AWS
 
 <h3>Languages and Tools:</h3>
 <p>
