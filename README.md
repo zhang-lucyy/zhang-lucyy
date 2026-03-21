@@ -4,7 +4,8 @@ I'm currently a Software Engineering student with double minors in Web Developme
 
 💫I love collecting little trinkets and blind box figurines! Don't ask me how much I've spent...
 
-📝 Currently interning at: Software Development Intern @ Belvista Software
+🖥️ I'm currently a Software Development Intern @ Belvista Software
+<br>
 📝 Current project: Working on a personal website!
 
 <h3>Languages and Tools:</h3>
