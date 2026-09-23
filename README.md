@@ -1,12 +1,11 @@
 <h1>Hi there, I'm Lucy!</h1>
 
-I'm currently a Software Engineering student with double minors in Web Development and Database Design & Development at Rochester Institute of Technology, graduating in May 2027. I'm currently looking for Summer 2026 internships where I can apply my skills while gaining hands-on-experience and learning new technologies. I'm passionate about building full-stack applications that solve real problems! I really enjoy the challenge of understanding client needs and translating them into functional software solutions.
+I'm currently a Software Engineering student with double minors in Web Development and Database Design & Development at Rochester Institute of Technology, graduating in May 2027. I'm currently looking for 2027 new grad roles where I can apply my skills and knowledge in full-stack development. I'm passionate about building full-stack applications that solve real problems! I really enjoy the challenge of understanding client needs and translating them into functional software solutions.
 
 💫I love collecting little trinkets and blind box figurines! Don't ask me how much I've spent...
 
-🖥️ I'm currently a Software Development Intern @ Belvista Software
+🖥️ Currently finishing up my 2nd to last semester of senior year...
 <br>
-📝 Current project: Working on a personal website!
 
 <h3>Languages and Tools:</h3>
 <p>
